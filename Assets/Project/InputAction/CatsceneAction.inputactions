@@ -1,0 +1,34 @@
+{
+    "name": "CatsceneAction",
+    "maps": [
+        {
+            "name": "Catscene",
+            "id": "0cefdbdf-beb7-4943-98bc-5e528be6e2ff",
+            "actions": [
+                {
+                    "name": "Click",
+                    "type": "Button",
+                    "id": "57ac6bc5-0d0f-4cbf-bc47-8ad19e826d6b",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "ed7b3545-fd36-4938-a635-46ee4d939266",
+                    "path": "<Mouse>/press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Click",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

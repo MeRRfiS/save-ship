@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: bfb2bd19c6bbcb5409071e7fe1202477
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6065628974754532698
+    second: Project New Generation white not full hd_0
+  - first:
+      213: 8115353997974376034
+    second: Project New Generation white not full hd_1
+  - first:
+      213: -887468471174227371
+    second: Project New Generation white not full hd_2
+  - first:
+      213: 2235624971951932524
+    second: Project New Generation white not full hd_3
+  - first:
+      213: -6748226160537594200
+    second: Project New Generation white not full hd_4
+  - first:
+      213: -7337142366549152762
+    second: Project New Generation white not full hd_5
+  - first:
+      213: 5826085141982404172
+    second: Project New Generation white not full hd_6
+  - first:
+      213: 8775997239748921966
+    second: Project New Generation white not full hd_7
+  - first:
+      213: 2750869581308236426
+    second: Project New Generation white not full hd_8
+  - first:
+      213: 281275774308101117
+    second: Project New Generation white not full hd_9
+  - first:
+      213: -792229584058720493
+    second: Project New Generation white not full hd_10
+  - first:
+      213: 7564668217895157796
+    second: Project New Generation white not full hd_11
+  - first:
+      213: 961806911660407732
+    second: Project New Generation white not full hd_12
+  - first:
+      213: -6313462595222025472
+    second: Project New Generation white not full hd_13
+  - first:
+      213: 9060898974421106132
+    second: Project New Generation white not full hd_14
+  - first:
+      213: 5878838960222795578
+    second: Project New Generation white not full hd_15
+  - first:
+      213: -2030994519351913082
+    second: Project New Generation white not full hd_16
+  - first:
+      213: 7246960188874293187
+    second: Project New Generation white not full hd_17
+  - first:
+      213: 6581941794143405301
+    second: Project New Generation white not full hd_18
+  - first:
+      213: 5592748629081891583
+    second: Project New Generation white not full hd_19
+  - first:
+      213: 6809815535726753586
+    second: Project New Generation white not full hd_20
+  - first:
+      213: -6725838325376922755
+    second: Project New Generation white not full hd_21
+  - first:
+      213: 3066361194236998212
+    second: Project New Generation white not full hd_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 294
+        height: 515
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d8f8b5a617d2450800000000000000
+      internalID: 6065628974754532698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 370
+        width: 582
+        height: 333
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e0fc3d6778f9070800000000000000
+      internalID: 8115353997974376034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_2
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 299
+        height: 516
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a1d42a0241fa3f0800000000000000
+      internalID: -887468471174227371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_3
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 320
+        width: 232
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6400303119860f10800000000000000
+      internalID: 2235624971951932524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_4
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 320
+        width: 232
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a698258f0c7952a0800000000000000
+      internalID: -6748226160537594200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_5
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 320
+        width: 232
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c6e5734eb3d2a90800000000000000
+      internalID: -7337142366549152762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_6
+      rect:
+        serializedVersion: 2
+        x: 1560
+        y: 320
+        width: 231
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4eda0791996ad050800000000000000
+      internalID: 5826085141982404172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_7
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 320
+        width: 209
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a0b090efa9ac970800000000000000
+      internalID: 8775997239748921966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_8
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 320
+        width: 232
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a821e493f4d0d2620800000000000000
+      internalID: 2750869581308236426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_9
+      rect:
+        serializedVersion: 2
+        x: 2402
+        y: 320
+        width: 226
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfbae8393da47e300800000000000000
+      internalID: 281275774308101117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_10
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 0
+        width: 131
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fdf95046f6105f0800000000000000
+      internalID: -792229584058720493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_11
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 0
+        width: 106
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42004533aa91bf860800000000000000
+      internalID: 7564668217895157796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_12
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 0
+        width: 226
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbb8005a46095d00800000000000000
+      internalID: 961806911660407732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_13
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 0
+        width: 117
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b431548331268a0800000000000000
+      internalID: -6313462595222025472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_14
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 0
+        width: 106
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd321c4c97cebd70800000000000000
+      internalID: 9060898974421106132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_15
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 0
+        width: 131
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a377ecb03e4d59150800000000000000
+      internalID: 5878838960222795578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_16
+      rect:
+        serializedVersion: 2
+        x: 1716
+        y: 0
+        width: 106
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 685934dce3570d3e0800000000000000
+      internalID: -2030994519351913082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_17
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 0
+        width: 118
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cfff3f45ef529460800000000000000
+      internalID: 7246960188874293187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_18
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 0
+        width: 139
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f4073c6031c75b50800000000000000
+      internalID: 6581941794143405301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_19
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 0
+        width: 114
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2aa7a1f3f6d9d40800000000000000
+      internalID: 5592748629081891583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_20
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 0
+        width: 43
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237fde85623518e50800000000000000
+      internalID: 6809815535726753586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_21
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 0
+        width: 118
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b43379da509a2a0800000000000000
+      internalID: -6725838325376922755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Project New Generation white not full hd_22
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 0
+        width: 131
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442f9878247ed8a20800000000000000
+      internalID: 3066361194236998212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Project New Generation white not full hd_0: 6065628974754532698
+      Project New Generation white not full hd_1: 8115353997974376034
+      Project New Generation white not full hd_10: -792229584058720493
+      Project New Generation white not full hd_11: 7564668217895157796
+      Project New Generation white not full hd_12: 961806911660407732
+      Project New Generation white not full hd_13: -6313462595222025472
+      Project New Generation white not full hd_14: 9060898974421106132
+      Project New Generation white not full hd_15: 5878838960222795578
+      Project New Generation white not full hd_16: -2030994519351913082
+      Project New Generation white not full hd_17: 7246960188874293187
+      Project New Generation white not full hd_18: 6581941794143405301
+      Project New Generation white not full hd_19: 5592748629081891583
+      Project New Generation white not full hd_2: -887468471174227371
+      Project New Generation white not full hd_20: 6809815535726753586
+      Project New Generation white not full hd_21: -6725838325376922755
+      Project New Generation white not full hd_22: 3066361194236998212
+      Project New Generation white not full hd_3: 2235624971951932524
+      Project New Generation white not full hd_4: -6748226160537594200
+      Project New Generation white not full hd_5: -7337142366549152762
+      Project New Generation white not full hd_6: 5826085141982404172
+      Project New Generation white not full hd_7: 8775997239748921966
+      Project New Generation white not full hd_8: 2750869581308236426
+      Project New Generation white not full hd_9: 281275774308101117
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
